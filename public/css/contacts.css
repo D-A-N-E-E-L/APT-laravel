@@ -1,0 +1,30 @@
+body
+{
+    background: linear-gradient(45deg, #98fb95, #f8e9a5);
+    font-family: -apple-system;
+}
+.container
+{
+    display: flex;
+    justify-content: center;
+}
+.sign {
+    border: 1px solid #333;
+    padding: 7px;
+    margin: 10px 0 5px 5px;
+    background: #f0f0f0;
+    width: 600px;
+}
+.sign figcaption {
+    margin: 0 auto 5px;
+}
+.sign img
+{
+    width: 300px;
+    height: 300px;
+}
+.con
+{
+    width: 80vw;
+    height: 255vh;
+}

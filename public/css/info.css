@@ -1,0 +1,51 @@
+body
+{
+    background: linear-gradient(45deg, #befbe2, #f4d0b2);
+    font-family: -apple-system;
+}
+.con
+{
+    width: 80vw;
+    height: 150vh;
+}
+.container
+{
+    display: flex;
+    justify-content: center;
+}
+.con img
+{
+    width: 300px;
+    height: 200px;
+}
+.info
+{
+    display: flex;
+    width: 100%;
+    border: 1px solid black;
+    margin-top: 10px;
+    background-color: rgba(255, 255, 255, 0.47);
+}
+.info label
+{
+    margin-left: 25%;
+}
+ .sign {
+     float: right;
+     border: 1px solid #333;
+     padding: 7px;
+     margin: 10px 0 5px 5px;
+     background: #f0f0f0;
+ }
+.sign figcaption {
+    margin: 0 auto 5px;
+}
+.info p
+{
+    font-size: 20px;
+    padding: 0 10px;
+}
+.info figcaption
+{
+    font-size: 30px;
+}

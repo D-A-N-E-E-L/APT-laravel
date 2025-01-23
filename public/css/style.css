@@ -1,0 +1,94 @@
+body
+{
+    font-family: -apple-system;
+}
+.navbar
+{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    margin-left: -8px;
+    margin-top: -15px;
+    width: 98.85vw;
+    height: 60px;
+    background: linear-gradient(135deg, #24d3a5, #b1b66e);
+    font-family: -apple-system;
+}
+.navbar ul
+{
+    margin-top: 20px;
+    list-style-type: none;
+}
+.navbar ul.main-list li
+{
+    display: inline;
+}
+.navbar ul.user-list li
+{
+    display: inline;
+}
+.navbar img
+{
+    width: 35px;
+    height: 45px;
+    margin-top: 32px;
+}
+.navbar h2
+{
+    margin-top: 33px;
+    padding: 0 10px;
+}
+.logo
+{
+    display: flex;
+}
+.logo
+{
+
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+.b
+{
+    border: none;
+    background-color: transparent;
+    color: white;
+    font-size: 20px;
+    transition: 0.5s;
+}
+.b:hover
+{
+    color: black;
+}
+.b-a
+{
+    font-size: 20px;
+    border: none;
+    background-color: transparent;
+    transition: 0.5s;
+}
+footer
+{
+    display: flex;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    background: linear-gradient(45deg, #d9df90, #31d1a5);
+    font-family: -apple-system;
+    width: 100vw;
+    height: 60px;
+    margin-left: -8px;
+}
+footer div
+{
+    color: white;
+    margin-left: 10px;
+}
+.user-list
+{
+    position: fixed;
+    right: 50px;
+}
+
+
